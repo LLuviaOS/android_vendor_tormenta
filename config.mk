@@ -34,4 +34,4 @@ endif
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.google.ime.theme_id=5
 
-
+DEVICE_PACKAGE_OVERLAYS += vendor/tormenta/overlay/common
